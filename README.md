@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jesús
 =============================================================================================================================
 
-I am a full-time software developer.
+I am a software developer.
 ------------------------------------
 
 I am passionate about developing efficient and intuitive applications focusing on the user experience; I like working on exciting projects that solve real needs.
 
 * 🌍  I'm based in Venezuela
-* 🖥️  See my at [ireiser.me](http://ireiser.me)
+* 🖥️  See me at [ireiser.me](http://ireiser.me)
 * ✉️  You can contact me at [contact](mailto:contact)
 * 🚀  I'm currently working on [Workana](http://www.workana.com)
 * 🧠  I'm learning constantly. Currently, managing the infrastructure of my apps on Linux servers
