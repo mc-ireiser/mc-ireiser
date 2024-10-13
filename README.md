@@ -42,14 +42,6 @@ I am passionate about developing efficient and intuitive applications focusing o
 
 <p align="left"> <a href="https://www.github.com/mc-ireiser" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mc-ireiser"><img src="https://github-readme-stats.vercel.app/api?username=mc-ireiser&show_icons=true&hide=issues,contribs&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&card_width=1024" alt="mc-ireiser's GitHub stats" /></a>
-
-<a href="http://www.github.com/mc-ireiser"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mc-ireiser&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/mc-ireiser/termoDaQ" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mc-ireiser&repo=termoDaQ&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mc-ireiser/termodaq_link" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mc-ireiser&repo=termodaq_link&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
